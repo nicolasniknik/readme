@@ -73,7 +73,7 @@ phpinfo();
 ?>
 Quindi salva le modifiche effettuate premendo CTRL + X, digitando Y e infine conferma premendo invio.
 
-
+<img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="index.png">
 
 
  
