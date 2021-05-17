@@ -76,4 +76,8 @@ Quindi salva le modifiche effettuate premendo CTRL + X, digitando Y e infine con
 <img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="index.png">
 
 
- 
+# COME GESTIRE I FILE SULLA MACCHINA
+
+ Per caricare i file sulla macchina si utilizza:
+ FILE ZILLA:In cui è possibile caricare i file inserendo l'Host e la password
+ <img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="foto2.png">
