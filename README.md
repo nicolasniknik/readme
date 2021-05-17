@@ -31,7 +31,7 @@ Per verificare il funzionamento di MySQL prova ad autenticarti :
  Se funziona  entrerai nella scherzata mysql e per uscire digitare:
  - mysql > exit;
 
-<img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="https://photos.app.goo.gl/NZ8xPatZ7kz7HF4cA">
+<img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="apache.png">
 
 
 
