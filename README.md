@@ -1,7 +1,7 @@
 # UBUNTU -LAMP
 
 LAMP è una delle piattaforme software per lo sviluppo di applicazioni web più utilizzate a livello mondiale. L'acronimo deriva dalle iniziali delle quattro componenti software con cui è realizzata: Linux, Apache, MySQL, PHP. Ognuna di queste componenti è predisposta per l'eccellente funzionamento in concomitanza con le altre.Installazione effettuata su macchina virtuale Ubuntu.
-<img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="">
+<img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="ubunto macchina.png">
 
 # COME INSTALLARE APACHE
 
@@ -12,7 +12,7 @@ Abilitare apache
   -$ sudo ufw allow in "Apache Full"
   
 Se la procedura é stata eseguita correttamente verrà mostrata la pagina di benvenuto di Apache.
-<img width="632" alt="https://photos.app.goo.gl/NiNcZcmAXbw2Xsf1A">
+<img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="apache.png">
 
 # COME INSTALLARE MYSQL
 
@@ -64,7 +64,7 @@ Riavvia Apache per applicare le modifiche
   Per verificare il funzionamento dell'interprete PHP e della configurazione non dovrai fare altro che creare un file index.php nella cartella che contiene il tuo sito:
 
 $ sudo nano /var/www/html/index.php
-<img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="apache.png">
+
 
 Inserirci nel file il seguente contenuto che stamperà le informazioni della tua configurazione a schermo:
 
@@ -72,7 +72,7 @@ Inserirci nel file il seguente contenuto che stamperà le informazioni della tua
 phpinfo();
 ?>
 Quindi salva le modifiche effettuate premendo CTRL + X, digitando Y e infine conferma premendo invio.
-<img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="https://photos.app.goo.gl/PPg7MFBaH8gUextY7">
+
 
 
 
