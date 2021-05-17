@@ -64,7 +64,7 @@ Riavvia Apache per applicare le modifiche
   Per verificare il funzionamento dell'interprete PHP e della configurazione non dovrai fare altro che creare un file index.php nella cartella che contiene il tuo sito:
 
 $ sudo nano /var/www/html/index.php
-<img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="https://photos.app.goo.gl/CLz4H3xBsysHtjGq5">
+<img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="apache.png">
 
 Inserirci nel file il seguente contenuto che stamperà le informazioni della tua configurazione a schermo:
 
