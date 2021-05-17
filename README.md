@@ -1,7 +1,7 @@
 # UBUNTU -LAMP
 
 LAMP è una delle piattaforme software per lo sviluppo di applicazioni web più utilizzate a livello mondiale. L'acronimo deriva dalle iniziali delle quattro componenti software con cui è realizzata: Linux, Apache, MySQL, PHP. Ognuna di queste componenti è predisposta per l'eccellente funzionamento in concomitanza con le altre.Installazione effettuata su macchina virtuale Ubuntu.
-<img width="632" alt="ubunto macchina.png">
+<img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="">
 
 # COME INSTALLARE APACHE
 
@@ -32,7 +32,8 @@ Per verificare il funzionamento di MySQL prova ad autenticarti :
  Se funziona  entrerai nella scherzata mysql e per uscire digitare:
  - mysql > exit;
 
-<img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="apache.png">
+<img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="mysql.png">
+<img width="632" alt="Schermata 2021-05-17 alle 10 22 03" src="mysql1.png">
 
 
 
