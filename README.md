@@ -1,6 +1,7 @@
 # UBUNTU -LAMP
 
 LAMP è una delle piattaforme software per lo sviluppo di applicazioni web più utilizzate a livello mondiale. L'acronimo deriva dalle iniziali delle quattro componenti software con cui è realizzata: Linux, Apache, MySQL, PHP. Ognuna di queste componenti è predisposta per l'eccellente funzionamento in concomitanza con le altre.Installazione effettuata su macchina virtuale Ubuntu.
+<img width="632" alt="ubunto macchina.png">
 
 # COME INSTALLARE APACHE
 
